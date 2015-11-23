@@ -28,7 +28,7 @@ Start an amazing journey with each other who are from the same place with the sa
 
 # 推荐文本编辑器：
 1. [sublime](http://www.sublimetext.com/)：最性感的编辑器，插件功能强大。可参看知乎问题：[Sublime text有哪些实用技巧](http://www.zhihu.com/question/19976788)。
-2. [notepad++](https://notepad-plus-plus.org/） Windows系统自带文本编辑器Nodepad的PlusPlus版本~
+2. [notepad++](https://notepad-plus-plus.org/) Windows系统自带文本编辑器Nodepad的PlusPlus版本~
 
 # 推荐搜索引擎：
 1.  [Google](http://google.com)
@@ -43,4 +43,8 @@ Start an amazing journey with each other who are from the same place with the sa
 官方下载采用下载器在线下载安装包，可能会发生意想不到的下载错误，这时可[下载离线安装包。](http://pan.baidu.com/s/1c09IvIC)
 5. 关于GitHub客户端的使用，可参照[慕课网视频教程。](http://www.imooc.com/learn/390)
 
+# The Last But Not Least
+**  可任意访问[我的博客](http://danceiny.github.io/blog)和[我的博客](http://danceiny.github.io/tech/blog.html)。我会不定时更新一些有用的技术类文章。欢迎评论留言。**
+**  可[电邮我](mailto:danceiny@gmail.com)。**
 
+# This README.md is Powered by [Danceiny](http://danceiny.github.io).
