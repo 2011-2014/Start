@@ -44,7 +44,7 @@ Start an amazing journey with each other who are from the same place with the sa
 5. 关于GitHub客户端的使用，可参照[慕课网视频教程。](http://www.imooc.com/learn/390)
 
 # The Last But Not Least
-**  可任意访问[我的博客](http://danceiny.github.io/blog)和[我的博客](http://danceiny.github.io/tech/blog.html)。我会不定时更新一些有用的技术类文章。欢迎评论留言。**
-**  可[电邮我](mailto:danceiny@gmail.com)。**
+**可任意访问[我的博客](http://danceiny.github.io/blog)和[我的博客](http://danceiny.github.io/tech/blog.html)。我会更新一些有用的技术类文章。欢迎评论留言。**
+**可[电邮我](mailto:danceiny@gmail.com)。**
 
 # This README.md is Powered by [Danceiny](http://danceiny.github.io).
