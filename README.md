@@ -32,8 +32,8 @@ Start an amazing journey with each other who are from the same place with the sa
 
 # 推荐搜索引擎：
 1.  [Google](http://google.com)
-2.  [如果无法正常访问Google，可以用乐搜]（http://m.lesou.us)
-** 或者，使用翻墙工具##Lantern## [点击请下载](http://pan.baidu.com/s/1jGfJXLc)**
+2.  [如果无法正常访问Google，可以用乐搜](http://m.lesou.us)
+*** 或者，使用翻墙工具**Lantern** [点击请下载](http://pan.baidu.com/s/1jGfJXLc) ***
 
 # 关于Git和GitHub：
 1. [Git的介绍:代码版本控制工具](http://baike.baidu.com/link?url=RX_Q6BnGInnCH4sRfuu8tJgJQC6LG41v0AJJhN8ohcBI1h7JC61CjF1-_eov9LEtmtlmDHrBrDyTswe2hOVCivkTmcxMG7TwLcoCp-RFwbG)
