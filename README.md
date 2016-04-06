@@ -1,5 +1,5 @@
 # Start
-Start an amazing journey with each other who are from the same place with the same interest.
+对web方面了解甚少，下面是一个简单的入门记录。
 
 
 # 入门网站：
@@ -9,15 +9,16 @@ Start an amazing journey with each other who are from the same place with the sa
 
 # 入门流程
 1.  掌握基本Html和CSS知识。
-2.  了解*高频词汇*、*常见术语*大概含义所指。
+2.  了解*高频词汇*。
 3.  尽可能多看看网页代码。比如在浏览网站的时候，查看网页源代码，
 4.  善用搜索引擎，学习他人经验。知乎：[如何使用搜索引擎？](http://www.zhihu.com/question/28013848)
+5.  了解js。学会使用jqury库。
 
 # 浏览器
 * 做网页必然需要和浏览器打交道，几大主流浏览器一定要有所了解。
-1.  [Google Chrome]。最爱的，没有之一。
-2.  [Mozilla Firefox]。具有中文控制台，是一大福音。
-3.  [360极速浏览器]。我觉得这个浏览器的优势在于集成IE和Chrome双内核，可以任意切换。
+1.  Google Chrome。最爱的，没有之一。
+2.  Mozilla Firefox。有中文控制台。
+3.  360极速浏览器。我觉得这个浏览器的优势在于集成IE和Chrome双内核，可以任意切换。
 
 
 # IDE（集成开发环境）
@@ -26,12 +27,12 @@ Start an amazing journey with each other who are from the same place with the sa
 2.  [Microsoft Visual Studio 2015](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)。微软出品。
 3.  [WebStorm](https://www.jetbrains.com/webstorm/download/)：适合网页前端的利器。
 
-# 推荐文本编辑器：
+# 文本编辑器：
 1. [sublime](http://www.sublimetext.com/)：最性感的编辑器，插件功能强大。可参看知乎问题：[Sublime text有哪些实用技巧](http://www.zhihu.com/question/19976788)。
 2. [notepad++](https://notepad-plus-plus.org/) Windows系统自带文本编辑器Nodepad的PlusPlus版本~
-3. [Atom](www.atom.org) github出品，插件很炫，不过速度比较慢。
-
-# 推荐搜索引擎：
+3. [Atom](www.atom.io) github出品，插件很炫，不过速度比较慢。
+4. 
+# 搜索引擎：
 1.  [Google](http://google.com)
 2.  [如果无法正常访问Google，可以用乐搜](http://lesou.us)
 或者，使用翻墙工具 **Lantern** [点击请下载](http://pan.baidu.com/s/1jGfJXLc)
@@ -45,7 +46,7 @@ Start an amazing journey with each other who are from the same place with the sa
 5. 关于GitHub客户端的使用，可参照[慕课网视频教程。](http://www.imooc.com/learn/390)
 
 # The Last But Not Least
-**[我的博客](http://danceiny.farbox.com)和[我的阅读](http://huangzhen.farbox.com)。**
+**[我的博客](http://danceiny.farbox.com)和[我的阅读](http://huangzhen.farbox.com)。主要内容集中在C/C++/Python语言，image process（opencv为主），machine learning（image方向）语言等。**
 **[电邮我](mailto:danceiny@gmail.com)。**
 
 ## This README.md is Powered by [Danceiny](http://danceiny.github.io).
