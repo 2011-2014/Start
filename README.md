@@ -31,11 +31,15 @@
 1. [sublime](http://www.sublimetext.com/)：最性感的编辑器，插件功能强大。可参看知乎问题：[Sublime text有哪些实用技巧](http://www.zhihu.com/question/19976788)。
 2. [notepad++](https://notepad-plus-plus.org/) Windows系统自带文本编辑器Nodepad的PlusPlus版本~
 3. [Atom](www.atom.io) github出品，插件很炫，不过速度比较慢。
-4. 
+
 # 搜索引擎：
 1.  [Google](http://google.com)
-2.  [如果无法正常访问Google，可以用乐搜](http://lesou.us)
+2.  [如果无法正常访问Google，可以用乐搜](http://www.lesou.us)
 或者，使用翻墙工具 **Lantern** [点击请下载](http://pan.baidu.com/s/1jGfJXLc)
+
+# 提问
+1. [stackoverflow](http://stackoverflow.com)。基本上各种问题都有呢。
+2. [segmentfault](https://segmentfault.com)。国内的。好像web方面的问题是主流。
 
 # 关于Git和GitHub：
 1. [Git的介绍:代码版本控制工具](http://baike.baidu.com/link?url=RX_Q6BnGInnCH4sRfuu8tJgJQC6LG41v0AJJhN8ohcBI1h7JC61CjF1-_eov9LEtmtlmDHrBrDyTswe2hOVCivkTmcxMG7TwLcoCp-RFwbG)
